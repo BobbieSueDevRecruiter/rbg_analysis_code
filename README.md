@@ -1,1 +1,1 @@
-Containing the code for the analysis of RBG data
+Containing the code used for the analysis of RBG data
